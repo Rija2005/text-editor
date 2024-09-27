@@ -1,0 +1,16 @@
+.text-editor-header{
+    padding-left: 130px;
+    background-color: rgb(177, 212, 241);
+
+}
+.card{
+
+    height: 400px;
+    -webkit-box-shadow: 1px -1px 14px 2px rgba(0,0,0,0.43); 
+    box-shadow: 1px -1px 14px 2px rgba(0,0,0,0.43);
+
+}
+.content{
+    outline: none;
+   
+}
